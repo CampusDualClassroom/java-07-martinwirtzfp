@@ -28,7 +28,7 @@ public class Exercise07 {
         if (index != -1) {
             System.out.println(num + " se encuentra en la posición: " + index);
         } else {
-            System.out.println(num + " no se encuventra en la lista.");
+            System.out.println(num + " no se encuentra en la lista.");
         }
     }
 
